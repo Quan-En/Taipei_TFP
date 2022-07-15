@@ -1,4 +1,4 @@
-# Traffic flow prediction on Taipei metro with daily COVID-19 cases
+# Traffic Flow Prediction(TFP) on Taipei metro with daily COVID-19 cases
 
 ## **資料來源**<br/>
 - 台灣每日確診人數資訊: 衛福部疾管署(CDC)
